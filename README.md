@@ -45,6 +45,33 @@ Switzerland runs on relationships. For international tech companies we map stake
 </tr>
 </table>
 
+## How we work
+
+```text
+   MEET  ───────▶  PLAN  ───────▶  EXECUTE  ───────▶  ENJOY
+   kickoff        strategy         we do the         you keep
+   workshop       + roadmap        GTM work          building
+```
+
+1. **Kickoff workshop.** We learn what you are building, what excites you, the projects you love, and who your ideal customer is.
+2. **Strategy.** Competitive analysis, positioning statement, customer profile and actionable recommendations.
+3. **Tangible timeline.** A roadmap with priorities, milestones and next steps.
+4. **Execution.** Fractional GTM, marketing or ecosystem leadership, partner and channel strategy, custom events, or hands-on campaigns, while you focus on the product.
+
+## What clients say
+
+> **“The GoGrow Company gets straight to the point. They quickly understand challenges, navigate the Swiss IT market, and execute with speed.”**
+> — Tobias Brunner, VSHN
+
+> **“Phil creates remarkable impact. He swiftly grasps challenges, understands client requirements, and delivers profitable solutions.”**
+> — Adrian Brunner, Puzzle ITC
+
+> **“The GoGrow Company worked with us side by side and delivered real value. They understood our business, recognized our pain points, and spoke our language.”**
+> — Thomas Philipona, tim&koko
+
+> **“Phil accelerated our progress in market positioning, customer understanding, and sales. Our new website is a 10x improvement.”**
+> — Lena Fuhrimann, Bespinian
+
 ## Featured offer: the Annual Go-To-Market Clarity Sprint
 
 > **A fixed-price strategy sprint for boutique engineering companies that want focus and a plan.**
@@ -73,33 +100,6 @@ Switzerland runs on relationships. For international tech companies we map stake
 [![Let's discuss](https://img.shields.io/badge/Let's_discuss-111111?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://cal.com/phmeier/30-min-meeting-gogrow)
 
 </div>
-
-## How we work
-
-```text
-   MEET  ───────▶  PLAN  ───────▶  EXECUTE  ───────▶  ENJOY
-   kickoff        strategy         we do the         you keep
-   workshop       + roadmap        GTM work          building
-```
-
-1. **Kickoff workshop.** We learn what you are building, what excites you, the projects you love, and who your ideal customer is.
-2. **Strategy.** Competitive analysis, positioning statement, customer profile and actionable recommendations.
-3. **Tangible timeline.** A roadmap with priorities, milestones and next steps.
-4. **Execution.** Fractional GTM, marketing or ecosystem leadership, partner and channel strategy, custom events, or hands-on campaigns, while you focus on the product.
-
-## What clients say
-
-> **“The GoGrow Company gets straight to the point. They quickly understand challenges, navigate the Swiss IT market, and execute with speed.”**
-> — Tobias Brunner, VSHN
-
-> **“Phil creates remarkable impact. He swiftly grasps challenges, understands client requirements, and delivers profitable solutions.”**
-> — Adrian Brunner, Puzzle ITC
-
-> **“The GoGrow Company worked with us side by side and delivered real value. They understood our business, recognized our pain points, and spoke our language.”**
-> — Thomas Philipona, tim&koko
-
-> **“Phil accelerated our progress in market positioning, customer understanding, and sales. Our new website is a 10x improvement.”**
-> — Lena Fuhrimann, Bespinian
 
 ## Say hello
 
