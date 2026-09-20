@@ -45,6 +45,35 @@ Switzerland runs on relationships. For international tech companies we map stake
 </tr>
 </table>
 
+## Featured offer: the Annual Go-To-Market Clarity Sprint
+
+> **A fixed-price strategy sprint for boutique engineering companies that want focus and a plan.**
+> It forces clarity and decisions and lays the groundwork for the year. No brainstorming theater.
+
+**For you if** your team feels busy but ineffective, marketing happens in random acts nobody measures, the partner ecosystem is not pulling its weight, and you want an outside view that challenges your assumptions.
+
+```text
+  INTERVIEW  ─────▶  STRATEGY & ANALYSIS  ─────▶  EXECUTION PLANNING  ─────▶  DELIVERY
+  up to 4 h with       reality check,               3–5 tactical            report, deck,
+  key stakeholders     ICP, positioning             priorities              live session
+```
+
+**You get**
+
+- A written strategy report: reality check, strategic focus (primary and secondary ICP), positioning and messaging, three to five tactical priorities, and implementation guidance
+- A summary presentation, plus a live session with your team (up to 90 minutes, with Q&A)
+- A concrete 30/60/90-day action plan and a shared language across the team
+- A decision filter you can hold every new idea against for the rest of the year
+
+**What it is not:** content creation, campaign execution, social media management, or a lead guarantee.
+
+<div align="center">
+
+[![Annual GTM Clarity Sprint](https://img.shields.io/badge/sprint.thegogrow.ch-000000?style=for-the-badge&logo=rocket&logoColor=white)](https://sprint.thegogrow.ch/)
+[![Let's discuss](https://img.shields.io/badge/Let's_discuss-111111?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://cal.com/phmeier/30-min-meeting-gogrow)
+
+</div>
+
 ## How we work
 
 ```text
